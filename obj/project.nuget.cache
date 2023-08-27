@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "msMA6kbIiLLERp+BM9DiJzGj1wSz8tXDW8iQtuXl+ZKP064zXzup4K4qJtC1mv3X43jQACD81q3xK5HNlueaNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inspiron15\\PlaywrightCSharpTest\\PlaywrightCSharpTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\microsoft.playwright\\1.37.1\\microsoft.playwright.1.37.1.nupkg.sha512",
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Inspiron15\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
